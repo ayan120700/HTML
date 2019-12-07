@@ -1,0 +1,78 @@
+/* *{
+    font-style: italic;
+    
+}
+body{
+    background:
+}
+#helloworld1{
+    color: blueviolet
+}
+.mydesign{
+    color: red;
+    border: 1px solid black;
+    background:#2fd719;
+}
+p{
+    color: white;
+}
+.padding{
+    padding: 20px;
+}
+
+div p{
+    background: cadetblue;
+} */
+/* ul{
+    list-style: none;
+}
+ul>li{
+    display: inline;
+    background: darkorange;
+    border: 2px solid blue */
+ body{
+    background-image: url(../CSS/asserts/photo-1479981280584-037818c1297d.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%
+    
+}
+ul{
+    list-style: none;
+}
+ul>li{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-width: 5px 10px;
+    border-style: solid;
+    border-color:orange;
+    border-bottom-right-radius: 100% ;
+    border-bottom-left-radius: 100%
+
+}
+
+#first{
+    background-image: url(../CSS/asserts/rabbit.jpg);
+    background-size: 250px 250px;
+}
+#second{
+    background-image: url(../CSS/asserts/monkey.jpg);
+    background-size: 250px 250px;
+}
+#third{
+    background-image: url(../CSS/asserts/teddy.jpg);
+    background-size: 250px 250px;
+} 
+p{
+    width: 200px;
+    border: 5px solid green;
+    text-align: center;
+    padding: 20px;
+    border-radius: 50px;
+}
+.login{
+    margin: 50px
+}
